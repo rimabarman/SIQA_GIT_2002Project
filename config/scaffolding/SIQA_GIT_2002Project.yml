@@ -30,6 +30,12 @@ packages:
   gitUsername: manoj-jannu-IBM
   gitBranch: main
 - name: JMS2waySSL
+  version: "1.0"
+  gitServerName: SIQAPsurGit
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: prabhakarsag
+  gitBranch: main
+- name: JMSTest
   gitServerName: SIQAPsurGit
   gitUrl: https://github.com/prabhakarsag
   gitUsername: prabhakarsag
@@ -42,6 +48,8 @@ services:
   - name: JMS2waySSL
     version: "1.0"
   - name: DADA_GlobalVariable1
+    version: "1.0"
+  - name: JMSTest
     version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
@@ -61,6 +69,8 @@ services:
     version: "1.0"
   - name: DADA_GlobalVariable1
     version: "1.0"
+  - name: JMSTest
+    version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
   - name: WmJDBCAdapter
@@ -79,6 +89,8 @@ services:
     version: "1.0"
   - name: DADA_GlobalVariable1
     version: "1.0"
+  - name: JMSTest
+    version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
   - name: WmJDBCAdapter
@@ -96,6 +108,8 @@ services:
   - name: JMS2waySSL
     version: "1.0"
   - name: DADA_GlobalVariable1
+    version: "1.0"
+  - name: JMSTest
     version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
@@ -118,6 +132,8 @@ services:
   - name: JMS2waySSL
     version: "1.0"
   - name: DADA_GlobalVariable1
+    version: "1.0"
+  - name: JMSTest
     version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
@@ -145,6 +161,8 @@ services:
     version: "1.0"
   - name: DADA_GlobalVariable1
     version: "1.0"
+  - name: JMSTest
+    version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
   - name: WmJDBCAdapter
@@ -163,6 +181,8 @@ services:
     version: "1.0"
   - name: DADA_GlobalVariable1
     version: "1.0"
+  - name: JMSTest
+    version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
   - name: WmJDBCAdapter
@@ -180,6 +200,8 @@ services:
   - name: JMS2waySSL
     version: "1.0"
   - name: DADA_GlobalVariable1
+    version: "1.0"
+  - name: JMSTest
     version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
@@ -206,6 +228,8 @@ services:
   - name: JMS2waySSL
     version: "1.0"
   - name: DADA_GlobalVariable1
+    version: "1.0"
+  - name: JMSTest
     version: "1.0"
   - name: SIQAJDBCAdapterTests
     version: "1.0"
