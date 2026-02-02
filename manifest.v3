@@ -11,17 +11,18 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmJDBCAdapter">10.3.0.0.34</value>
     <value name="SIQAJDBCAdapterTests">1.0</value>
+    <value name="DADA_GlobalVariable1">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">28</value>
+  <value name="build">29</value>
   <null name="description"/>
   <value name="created_date">02-02-2026 08:29:32 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-02-02T09:17:30.120739542Z</value>
+  <value name="lastUpdated">2026-02-02T09:19:01.244704231Z</value>
   <value name="wmProjectId">fl7c9b53c63ac2b0dff84cf4</value>
   <value name="creator">Rima Barman</value>
 </Values>
