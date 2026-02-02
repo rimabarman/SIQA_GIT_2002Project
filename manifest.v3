@@ -15,17 +15,18 @@
     <value name="JMS2waySSL">1.0</value>
     <value name="JMSTest">1.0</value>
     <value name="SSL_JDBC_Test">1.0</value>
+    <value name="WmJDBCAdapter">10.3.0.0.34</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">36</value>
+  <value name="build">37</value>
   <null name="description"/>
   <value name="created_date">02-02-2026 08:29:32 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-02-02T11:56:44.058756668Z</value>
+  <value name="lastUpdated">2026-02-02T11:58:14.317787902Z</value>
   <value name="wmProjectId">fl7c9b53c63ac2b0dff84cf4</value>
   <value name="creator">Rima Barman</value>
 </Values>
